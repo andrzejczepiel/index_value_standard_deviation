@@ -1,4 +1,4 @@
-Index_value.py calculate predicted index move (up and down) based on VIX value 
+Index_value.py calculates predicted index move (up and down) based on VIX value 
 
 pass current index value (index), 
 VIX value (vix), and time period (days)
