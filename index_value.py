@@ -14,7 +14,7 @@ class VolMove:
 
 
 
-today = VolMove(28, 3050, 46)
+today = VolMove(28, 3050, 50)
 
 
 print(today.predicted_move())
